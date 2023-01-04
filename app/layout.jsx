@@ -5,7 +5,7 @@ export default function RootLayout({ children }) {
   return (
     <html>
       <head>
-        <title> my 1st app</title>
+        <title> Tech News</title>
       </head>
       <body>
         <Header />
